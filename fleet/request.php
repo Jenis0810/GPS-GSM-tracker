@@ -1,0 +1,1 @@
+<!-- this page will be used to request a new location data from GPS/GSM -->

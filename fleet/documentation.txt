@@ -1,0 +1,37 @@
+objective
+
+description
+
+tasks
+    if satelite <3 no valid gps data
+
+technologies used
+    php
+        https://www.tutorialspoint.com/php/php_introduction.htm#:~:text=PHP%20is%20a%20recursive%20acronym,build%20entire%20e%2Dcommerce%20sites.
+        https://www.geeksforgeeks.org/php-introduction/
+    apache server
+        https://www.britannica.com/technology/Apache-Web-server
+    mysql
+        https://www.geeksforgeeks.org/php-mysql-database-introduction/#:~:text=MySQL%20is%20an%20open%2Dsource,consists%20of%20columns%20and%20rows.
+    HTML
+    https://www.geeksforgeeks.org/html-introduction/
+    CSS
+        https://developer.mozilla.org/en-US/docs/Web/CSS
+    leaflet(javscript library)
+        https://rstudio-pubs-static.s3.amazonaws.com/234259_ae00bc6721cb4bfb94f6f7fcfbeaf4e7.html
+    bootstrap(css framework)
+        https://www.geeksforgeeks.org/bootstrap-4-introduction/
+    opencellid api
+        https://wiki.opencellid.org/wiki/What_is_OpenCellID
+    unwire location api
+        https://www.programmableweb.com/api/unwired-labs-location-rest-api
+    json
+        https://www.digitalocean.com/community/tutorials/an-introduction-to-json
+
+
+overall explanation of the project
+    how the project works
+
+each page description 
+    what every page does
+
